@@ -116,12 +116,12 @@ courses = ["CYT180", "CYS101", "DBS211"]
 
 ## Task 5: Built-in Functions
 
-Using your `courses` list:
+Using your `courses` list from previous task:
 
 * Use at least **three built-in functions** (e.g., `len()`, `sorted()`, `type()`)
 * Print the result of each function
-
-Add a Markdown cell explaining **why built-in functions are useful**.
+* Add a Markdown cell explaining **why built-in functions are useful**.
+* Take a screenshot and include it in the PDF under Task 5.
 
 ---
 
@@ -129,11 +129,11 @@ Add a Markdown cell explaining **why built-in functions are useful**.
 
 Using the `courses` list:
 
-* Print the first course
-* Print the last course
-* Print a slice containing the first two courses
-
-Explain the difference between **indexing** and **slicing**.
+* Print the first course.
+* Print the last course.
+* Print a slice containing the first two courses.
+* Explain the difference between **indexing** and **slicing**.
+* Take a screenshot and include it in the PDF under Task 6.
 
 ---
 
@@ -141,10 +141,10 @@ Explain the difference between **indexing** and **slicing**.
 
 Write a function named `greet_student` that:
 
-* Accepts a name as a parameter
-* Prints a greeting message
-
-Call the function **at least twice** with different names.
+* Accepts a name as a parameter.
+* Prints a greeting message.
+* Call the function **at least twice** with different names.
+* Take a screenshot and include it in the PDF under Task 7
 
 ---
 
@@ -152,15 +152,12 @@ Call the function **at least twice** with different names.
 
 Write a function that:
 
-* Accepts two numbers
-* Returns their average
-
-Then:
-
-* Call the function with integers
-* Call the function with decimal values
-
-Add a Markdown cell explaining **what you learned about function parameters and data types**.
+* Accepts two numbers.
+* Returns their average.
+* Call the function with integers.
+* Call the function with decimal values.
+* Add a Markdown cell explaining **what you learned about function parameters and data types**.
+* Take a screenshot and include it in the PDF under Task 8.
 
 ---
 
@@ -179,21 +176,18 @@ Each answer should be **2–4 sentences**, written in your own words.
 ## Submission Checklist
 
 Before submitting, make sure your PDF includes:
-
-* Screenshots for **all 8 completed tasks** from `lab1.ipynb`
-* Visible **name, student ID, and GitHub username** shown in the notebook output
-* Clear evidence of code execution and output
-* Tasks labeled clearly (Task 1, Task 2, etc.)`
-
+- Screenshots for all 8 completed tasks from lab1.ipynb
+- Visible name and student ID shown in the notebook output
+- Clear evidence of code execution and output
+- Tasks labeled clearly (Task 1, Task 2, etc.)
 ---
 
 ## Important Notes
 
-* This lab assesses **Python understanding**, not Git expertise
+* This lab assesses **Python understanding**, not Git expertise.
 * Code must run successfully
 * Late or improperly named repositories may not be accepted
 * Academic integrity policies apply
 
 ---
 
-**End of Lab 1**
