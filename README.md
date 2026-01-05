@@ -1,1 +1,197 @@
-# Lab1
+# CYT180 – Lab 1: Python Basics (Applied Coding)
+
+**Weight:** 3%
+**Work Type:** Individual
+**Submission Format:** Single PDF file containing screenshots from the Jupyter Notebook
+
+---
+
+## Lab Purpose
+
+This lab introduces you to the fundamentals of Python programming through hands-on coding. You will modify provided code and write your own Python programs to demonstrate understanding.
+
+By the end of this lab, you should be able to:
+- Run Python code in a Jupyter Notebook (Google Colab or local)
+- Modify existing Python code
+- Write simple Python programs from scratch
+- Explain Python concepts in your own words
+---
+
+## Tools and Environment
+
+You may complete this lab using **one** of the following:
+
+* **Google Colab (Recommended)** – no installation required
+* **Local Installation** – Python 3 + Jupyter Notebook (Anaconda recommended)
+
+---
+
+## Evidence Requirement (Screenshots)
+To confirm individual work:
+* All screenshots **must clearly show your name and student ID** visible in the notebook output or terminal area
+* Screenshots must clearly show the task being completed and its output
+
+---
+
+## Starter Instructions
+
+Create a Jupyter Notebook named `YourSenecaUSername_lab1.ipynb`. Complete **all tasks below in order**. Make sure your notebook includes:
+
+* Code cells
+* Output
+* Brief comments (using Markdown cells) where requested
+
+---
+
+## Task 1: Introduction & Variables
+
+**Starter Code:**
+
+```python
+name = "Student"
+student_id = "000000"
+print(name)
+print(student_id)
+```
+
+### Your Task
+
+* Replace the placeholder values with your **real name** and **student ID**
+* Add a new variable called `program`
+* Print all values using **one print statement**
+* Take a screenshot showing your code and its output, and include it in the PDF under the heading **Task 1**.
+
+---
+
+## Task 2: Strings and Loops
+
+Write code that:
+
+* Stores a sentence in a string variable.
+* Uses a `for` loop to print each character on a new line.
+* Add a Markdown cell explaining **where loops are useful**.
+* Take a screenshot of the code and output and include it in the PDF under Task 2.
+
+---
+
+## Task 3: Tuples
+
+Create a tuple called `device_info` that stores:
+
+* Device type (e.g., "Laptop")
+* Operating system (e.g., "Windows")
+* Year purchased
+
+Then:
+
+* Print each value using indexing
+* Attempt to modify one value and **observe what happens**
+* Add a short comment explaining why this happens.
+* Take a screenshot and include it in the PDF under Task 3
+
+---
+
+## Task 4: Lists (Arrays)
+
+**Starter Code:**
+
+```python
+courses = ["CYT180", "CYS101", "DBS211"]
+```
+
+### Your Task
+
+* Add one more course to the list
+* Use a loop to print:
+
+  ```
+  I am enrolled in CYT180
+  ```
+* Print the total number of courses.
+* Take a screenshot and include it in the PDF under Task 4
+
+---
+
+## Task 5: Built-in Functions
+
+Using your `courses` list:
+
+* Use at least **three built-in functions** (e.g., `len()`, `sorted()`, `type()`)
+* Print the result of each function
+
+Add a Markdown cell explaining **why built-in functions are useful**.
+
+---
+
+## Task 6: Indexes and Slices
+
+Using the `courses` list:
+
+* Print the first course
+* Print the last course
+* Print a slice containing the first two courses
+
+Explain the difference between **indexing** and **slicing**.
+
+---
+
+## Task 7: Functions
+
+Write a function named `greet_student` that:
+
+* Accepts a name as a parameter
+* Prints a greeting message
+
+Call the function **at least twice** with different names.
+
+---
+
+## Task 8: Function Parameters and Typing
+
+Write a function that:
+
+* Accepts two numbers
+* Returns their average
+
+Then:
+
+* Call the function with integers
+* Call the function with decimal values
+
+Add a Markdown cell explaining **what you learned about function parameters and data types**.
+
+---
+
+## Final Reflection (README.md)
+
+At the bottom of this `README.md`, answer the following questions:
+
+1. Which task helped you understand Python the most?
+2. Which task was the most challenging and why?
+3. What is one Python concept you feel confident about after completing this lab?
+
+Each answer should be **2–4 sentences**, written in your own words.
+
+---
+
+## Submission Checklist
+
+Before submitting, make sure your PDF includes:
+
+* Screenshots for **all 8 completed tasks** from `lab1.ipynb`
+* Visible **name, student ID, and GitHub username** shown in the notebook output
+* Clear evidence of code execution and output
+* Tasks labeled clearly (Task 1, Task 2, etc.)`
+
+---
+
+## Important Notes
+
+* This lab assesses **Python understanding**, not Git expertise
+* Code must run successfully
+* Late or improperly named repositories may not be accepted
+* Academic integrity policies apply
+
+---
+
+**End of Lab 1**
