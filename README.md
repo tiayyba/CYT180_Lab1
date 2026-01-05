@@ -1,8 +1,8 @@
 # CYT180 – Lab 1: Python Basics (Applied Coding)
 
-**Weight:** 3%
-**Work Type:** Individual
-**Submission Format:** Single PDF file containing screenshots from the Jupyter Notebook
+**Weight:** 3% <br>
+**Work Type:** Individual <br>
+**Submission Format:** Single PDF file containing screenshots from the Jupyter Notebook <br>
 
 ---
 
