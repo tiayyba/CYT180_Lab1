@@ -101,17 +101,16 @@ courses = ["CYT180", "CYS101", "DBS211"]
 
 ### Your Task
 
-* Add one more course to the list using the `append` mthod.
-* Use a for loop to print each course in the format:
-
+- Add one more course to the list using the `append` mthod.
+- Use a for loop to print each course in the format:
   ```
   I am enrolled in CYT180
   I am enrolled in CYS101
   I am enrolled in DBS211
   I am enrolled in NET101
   ```
-* Print the total number of courses.
-* Take a screenshot and include it in the PDF under Task 4
+- Print the total number of courses.
+- Take a screenshot and include it in the PDF under Task 4
 
 ---
 
