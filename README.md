@@ -85,18 +85,14 @@ In a new cell in the notebook write code that:
 
 ## Task 3: Tuples
 
-Create a tuple called `device_info` that stores:
-
-* Device type (e.g., "Laptop")
-* Operating system (e.g., "Windows")
-* Year purchased
-
-Then:
-
-* Print each value using indexing
-* Attempt to modify one value and **observe what happens**
+* In a new cell in the notebook, create a tuple called `device_info` that stores:
+     * Device type (e.g., "Laptop")
+     * Operating system (e.g., "Windows")
+     * Year purchased
+* Print each value using indexing.
+* Attempt to modify one value and **observe what happens**.
 * Add a short comment explaining why this happens.
-* Take a screenshot and include it in the PDF under Task 3
+* Take a screenshot and include it in the PDF under Task 3.
 
 ---
 
