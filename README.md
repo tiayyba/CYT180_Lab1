@@ -15,7 +15,6 @@ By the end of this lab, you should be able to:
 - Modify existing Python code
 - Write simple Python programs from scratch
 - Explain Python concepts in your own words
-- 
 ---
 
 ## Tools and Environment
