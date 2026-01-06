@@ -42,16 +42,26 @@ You may complete this lab using **one** of the following options:
 ## Submission Instructions
 
 All lab work must be submitted as a **single PDF file** containing screenshots of your notebook and terminal output. You should create a **Word document**, add all screenshots in order, and then convert it to PDF. Follow these steps carefully:
-1. Include your name and student ID in the Word document.
-2. Demonstrate work was done on your own machine:
-   - Open a Windows Terminal (or command prompt).
-   - Print your system username, current date, and time:
-     ```powershell
-     # Windows command prompt
-     echo %USERNAME%
-     date /T
-     time /T
-    ```
+
+1. **Create a new notebook** for this lab named as `YourSenecaUSername_lab1.ipynb`.
+2. Complete **all tasks below in order**. Make sure your notebook includes:
+   - Each task should be completed in its **own cell**.
+   - At the top of each task cell, include your **name and student ID as a comment**.  
+     Example:
+     ```python
+     # Name: Your Name
+     # Student ID: 123456789
+     ```
+3. **Demonstrate work was done on your own machine**:
+   - Open a **Windows Terminal** (or command prompt).  
+   - Print your **system username**, **current date**, and **current time**:
+
+    ```powershell
+    # Windows command prompt
+    echo %USERNAME%
+    date /T
+    time /T
+  ```
 4. Capture screenshots of all tasks in the notebook:
    - Each screenshot must show code, output, your system username, and current datetime.
    - Place each screenshot under its corresponding task heading (Task 1, Task 2, … Task 8).
