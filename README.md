@@ -22,7 +22,7 @@ By the end of this lab, you should be able to:
 You may complete this lab using **one** of the following:
 
 * **Google Colab** – no installation required
-* **Local Installation** – Python 3 + Jupyter Notebook (Anaconda recommended)
+* **Local Installation** – Python 3 + Jupyter Notebook (Anaconda installation recommended)
 
 ---
 
@@ -60,28 +60,22 @@ Create a Jupyter Notebook named `YourSenecaUSername_lab1.ipynb`. Complete **all 
 
 ## Task 1: Introduction & Variables
 
-**Starter Code:**
-
+* Copy the following **starter code** in your notebook.
 ```python
 name = "Student"
 student_id = "000000"
 print(name)
 print(student_id)
 ```
-
-### Your Task
-
-* Replace the placeholder values with your **real name** and **student ID**
-* Add a new variable called `program`
-* Print all values using **one print statement**
+* Replace the placeholder values with your **real name** and **student ID**.
+* Add a new variable called `program` and assign it a logical value.
+* Print all values using **one print statement**.
 * Take a screenshot showing your code and its output, and include it in the PDF under the heading **Task 1**.
 
 ---
 
 ## Task 2: Strings and Loops
-
-Write code that:
-
+In a new cell in the notebook write code that:
 * Stores a sentence in a string variable.
 * Uses a `for` loop to print each character on a new line.
 * Add a Markdown cell explaining **where loops are useful**.
