@@ -15,13 +15,14 @@ By the end of this lab, you should be able to:
 - Modify existing Python code
 - Write simple Python programs from scratch
 - Explain Python concepts in your own words
+- 
 ---
 
 ## Tools and Environment
 
 You may complete this lab using **one** of the following:
 
-* **Google Colab (Recommended)** – no installation required
+* **Google Colab** – no installation required
 * **Local Installation** – Python 3 + Jupyter Notebook (Anaconda recommended)
 
 ---
@@ -32,6 +33,21 @@ To confirm individual work:
 * Screenshots must clearly show the task being completed and its output
 
 ---
+## Reference Material
+
+The following materials can help you complete this lab. These are **optional** and meant for guidance only:
+
+1. Instructor demonstration of the concepts
+2. Python official documentation: https://docs.python.org/3/tutorial/index.html
+3. Additional Python tutorial: https://pythonprogramming.net/introduction-learn-python-3-tutorials/
+  - This site contains **step-by-step tutorials and videos** covering:
+     - Introduction to Python
+     - Tuples, Strings, and Loops
+     - Lists (Arrays)
+     - Built-in Functions
+     - Indexes and Slices
+     - Functions
+     - Function Parameters and Typing  
 
 ## Starter Instructions
 
