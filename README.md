@@ -39,7 +39,7 @@ The following materials can help you complete this lab. These are **optional** a
 1. Instructor demonstration of the concepts
 2. Python official documentation: https://docs.python.org/3/tutorial/index.html
 3. Additional Python tutorial: https://pythonprogramming.net/introduction-learn-python-3-tutorials/
-This site contains **step-by-step tutorials and videos** covering:
+<br>This site contains **step-by-step tutorials and videos** covering:
      - Introduction to Python
      - Tuples, Strings, and Loops
      - Lists (Arrays)
