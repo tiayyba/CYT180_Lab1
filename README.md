@@ -75,7 +75,7 @@ Follow these steps carefully:
      ```
 4. **Demonstrate work was done on your own machine**:
    - Open a **Windows Terminal** (or command prompt).  
-   - Print your **system username**, **current date**, and **current time**
+   - Print your **system username**, **current date**, and **current time**. You will capture this output along with code.
 4. Capture screenshots of all tasks in the notebook:
    - Each screenshot must show code and its output in the cell along with your system username, and current datetime from terminal. You can keep the terminal on the right side of notebook and then capture the screenshot.
    - Place each screenshot under its corresponding task heading (Task 1, Task 2, … Task 8).
