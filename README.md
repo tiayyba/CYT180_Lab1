@@ -6,7 +6,7 @@
 
 ---
 
-## Lab Purpose
+## Lab Objectives
 
 This lab introduces you to the fundamentals of Python programming through hands-on coding. You will modify provided code and write your own Python programs to demonstrate understanding.
 
@@ -16,6 +16,17 @@ By the end of this lab, you should be able to:
 - Write simple Python programs from scratch
 - Explain Python concepts in your own words
 ---
+## Topics Covered
+
+This lab will cover the following Python topics:
+1. Introduction and Variables
+2. Strings and Loops
+3. Tuples
+4. Lists (Arrays)
+5. Built-in Functions
+6. Indexes and Slices
+7. Functions
+8. Function Parameters and Typing
 
 ## Tools and Environment
 
