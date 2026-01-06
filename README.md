@@ -191,7 +191,7 @@ Write a function that:
 
 ---
 
-## Final Reflection (README.md)
+## Final Reflection
 
 At the bottom of the word document, answer the following questions:
 1. Which task helped you understand Python the most?
