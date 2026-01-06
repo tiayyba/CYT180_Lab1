@@ -30,19 +30,44 @@ This lab will cover the following Python topics:
 
 ## Tools and Environment
 
-You may complete this lab using **one** of the following:
+You may complete this lab using **one** of the following options:
 
-* **Google Colab** – no installation required
-* **Local Installation** – Python 3 + Jupyter Notebook (Anaconda installation recommended)
+* **Google Colab** – no installation required. For guidance, refer to the enclosed document *“How to start with Google Colab”*.
+* **Local Installation** – Python 3 with Jupyter Notebook. I recommend installing the **Anaconda Distribution**, which includes Python and additional tools required for this course.  
+  - Installation guide (Windows): https://docs.anaconda.com/anaconda/install/windows/  
+  - If you are not comfortable with installing software locally, you may use Google Colab instead.
+
+---
+
+## Submission Instructions
+
+All lab work must be submitted as a **single PDF file** containing screenshots of your notebook and terminal output. You should create a **Word document**, add all screenshots in order, and then convert it to PDF. Follow these steps carefully:
+1. Include your name and student ID in the Word document.
+2. Demonstrate work was done on your own machine:
+   - Open a Windows Terminal (or command prompt).
+   - Print your system username, current date, and time:
+     ```powershell
+     # Windows command prompt
+     echo %USERNAME%
+     date /T
+     time /T
+    ```
+4. Capture screenshots of all tasks in the notebook:
+   - Each screenshot must show code, output, your system username, and current datetime.
+   - Place each screenshot under its corresponding task heading (Task 1, Task 2, … Task 8).
+   - Include brief comments in Markdown cells if requested for the task.
+5. Compile into a single PDF:
+   - Insert all screenshots in order into the Word document.
+   - Add headings for each task.
+   - Convert the Word document to PDF for submission.
+6. Check before submission:
+   - All notebook screenshots clearly show your name and student ID.
+   - Terminal screenshot shows username, date, and time.
+   - All 8 tasks are included and clearly labeled.
+   - Code runs correctly and outputs are visible.
 
 ---
 
-## Evidence Requirement (Screenshots)
-To confirm individual work:
-* All screenshots **must clearly show your name and student ID** visible in the notebook output or terminal area
-* Screenshots must clearly show the task being completed and its output
-
----
 ## Reference Material
 
 The following materials can help you complete this lab. These are **optional** and meant for guidance only:
