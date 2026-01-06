@@ -39,38 +39,6 @@ You may complete this lab using **one** of the following options:
 
 ---
 
-## Submission Instructions
-
-All lab work must be submitted as a **single PDF file** on Blackboard containing screenshots of your notebook and terminal output. You should create a **Word document**, add all screenshots in order, and then convert it to PDF.<br>
-Follow these steps carefully:
-
-1. **Create a new notebook** for this lab named as `YourSenecaUSername_lab1.ipynb`.
-2. Complete **all tasks below in order** in the notebook.
-3. Each task should be completed in its **own cell**.
-   - At the top of each task cell, include your **name and student ID as a comment**.  
-     Example:
-     ```python
-     # Name: Your Name
-     # Student ID: 123456789
-     ```
-4. **Demonstrate work was done on your own machine**:
-   - Open a **Windows Terminal** (or command prompt).  
-   - Print your **system username**, **current date**, and **current time**:
-4. Capture screenshots of all tasks in the notebook:
-   - Each screenshot must show code and its output in the cell along with your system username, and current datetime from terminal. You can keep the terminal on the right side of notebook and then capture the screenshot.
-   - Place each screenshot under its corresponding task heading (Task 1, Task 2, … Task 8).
-   - Include brief comments in Markdown cells if requested for the task.
-5. Compile into a single PDF:
-   - Insert all screenshots in order into the Word document.
-   - Add headings for each task.
-   - Convert the Word document to PDF for submission.
-6. Check before submission:
-   - All notebook screenshots clearly show your name and student ID.
-   - Terminal screenshot shows username, date, and time.
-   - All 8 tasks are included and clearly labeled.
-   - Code runs correctly and outputs are visible.
----
-
 ## Reference Material
 
 The following materials can help you complete this lab. These are **optional** and meant for guidance only:
@@ -90,12 +58,34 @@ The following materials can help you complete this lab. These are **optional** a
 ## Starter Instructions
 
 Create a Jupyter Notebook named `YourSenecaUSername_lab1.ipynb`. Complete **all tasks below in order**. Make sure your notebook includes:
-
-* Code cells
+* Code cells. Each task should be completed in its **own cell**.
 * Output
 * Brief comments (using Markdown cells) where requested
 
 ---
+## Submission Instructions
+
+All lab work must be submitted as a **single PDF file** on Blackboard containing screenshots of your notebook. You should create a **Word document**, add all screenshots in order, and then convert it to PDF.<br>
+Follow these steps carefully:
+1. At the top of each task cell, include your **name and student ID as a comment**.  
+     Example:
+     ```python
+     # Name: Your Name
+     # Student ID: 123456789
+     ```
+4. **Demonstrate work was done on your own machine**:
+   - Open a **Windows Terminal** (or command prompt).  
+   - Print your **system username**, **current date**, and **current time**
+4. Capture screenshots of all tasks in the notebook:
+   - Each screenshot must show code and its output in the cell along with your system username, and current datetime from terminal. You can keep the terminal on the right side of notebook and then capture the screenshot.
+   - Place each screenshot under its corresponding task heading (Task 1, Task 2, … Task 8).
+5. Compile the word document as a PDF:
+6. Check before submission:
+   - All notebook screenshots clearly show your name and student ID along with system username, current date and time from the windows terminal.
+   - All 8 tasks are included and clearly labeled.
+   - Code runs correctly and outputs are visible.
+---
+
 
 ## Task 1: Introduction & Variables
 
