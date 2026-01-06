@@ -174,7 +174,7 @@ Write a function named `greet_student` that:
 * Accepts a name as a parameter.
 * Prints a greeting message.
 * Call the function **at least twice** with different names.
-* Take a screenshot and include it in the PDF under Task 7
+* Take a screenshot and include it in the PDF under Task 7.
 
 ---
 
@@ -193,8 +193,7 @@ Write a function that:
 
 ## Final Reflection (README.md)
 
-At the bottom of this `README.md`, answer the following questions:
-
+At the bottom of the word document, answer the following questions:
 1. Which task helped you understand Python the most?
 2. Which task was the most challenging and why?
 3. What is one Python concept you feel confident about after completing this lab?
@@ -203,21 +202,10 @@ Each answer should be **2–4 sentences**, written in your own words.
 
 ---
 
-## Submission Checklist
-
-Before submitting, make sure your PDF includes:
-- Screenshots for all 8 completed tasks from lab1.ipynb
-- Visible name and student ID shown in the notebook output
-- Clear evidence of code execution and output
-- Tasks labeled clearly (Task 1, Task 2, etc.)
----
-
 ## Important Notes
-
-* This lab assesses **Python understanding**, not Git expertise.
-* Code must run successfully
-* Late or improperly named repositories may not be accepted
-* Academic integrity policies apply
+* Late submissions receive -20% per day.
+* Submissions which do not follow the given guidelines will be graded as zero!
+* Academic integrity policies apply.
 
 ---
 
