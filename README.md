@@ -45,26 +45,19 @@ All lab work must be submitted as a **single PDF file** on Blackboard containing
 Follow these steps carefully:
 
 1. **Create a new notebook** for this lab named as `YourSenecaUSername_lab1.ipynb`.
-2. Complete **all tasks below in order**. Make sure your notebook includes:
-   - Each task should be completed in its **own cell**.
+2. Complete **all tasks below in order** in the notebook.
+3. Each task should be completed in its **own cell**.
    - At the top of each task cell, include your **name and student ID as a comment**.  
      Example:
      ```python
      # Name: Your Name
      # Student ID: 123456789
      ```
-3. **Demonstrate work was done on your own machine**:
+4. **Demonstrate work was done on your own machine**:
    - Open a **Windows Terminal** (or command prompt).  
    - Print your **system username**, **current date**, and **current time**:
-
-    ```powershell
-    # Windows command prompt
-    echo %USERNAME%
-    date /T
-    time /T
-  ```
 4. Capture screenshots of all tasks in the notebook:
-   - Each screenshot must show code, output, your system username, and current datetime.
+   - Each screenshot must show code and its output in the cell along with your system username, and current datetime from terminal. You can keep the terminal on the right side of notebook and then capture the screenshot.
    - Place each screenshot under its corresponding task heading (Task 1, Task 2, … Task 8).
    - Include brief comments in Markdown cells if requested for the task.
 5. Compile into a single PDF:
@@ -76,7 +69,6 @@ Follow these steps carefully:
    - Terminal screenshot shows username, date, and time.
    - All 8 tasks are included and clearly labeled.
    - Code runs correctly and outputs are visible.
-
 ---
 
 ## Reference Material
