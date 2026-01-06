@@ -41,7 +41,8 @@ You may complete this lab using **one** of the following options:
 
 ## Submission Instructions
 
-All lab work must be submitted as a **single PDF file** containing screenshots of your notebook and terminal output. You should create a **Word document**, add all screenshots in order, and then convert it to PDF. Follow these steps carefully:
+All lab work must be submitted as a **single PDF file** on Blackboard containing screenshots of your notebook and terminal output. You should create a **Word document**, add all screenshots in order, and then convert it to PDF.<br>
+Follow these steps carefully:
 
 1. **Create a new notebook** for this lab named as `YourSenecaUSername_lab1.ipynb`.
 2. Complete **all tasks below in order**. Make sure your notebook includes:
