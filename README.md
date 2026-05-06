@@ -203,7 +203,10 @@ Each answer should be **2–4 sentences**, written in your own words.
 ---
 
 ## Important Notes
-* Late submissions receive -20% per day.
+* Lab 1 must be completed during the lab session.
+* Highest grade you can get from a lab1 if you submit the result before the end of the lab session is 100%.
+* Highest grade you can get from the lab if you submit the result before the end of Sunday 23:59:59 EST of the same week is 75%. '
+* If you submit the result after the deadline (normally the end of Sunday of the same week), you will get 0 score for that lab.
 * Submissions which do not follow the given guidelines will be graded as zero!
 * Academic integrity policies apply.
 
